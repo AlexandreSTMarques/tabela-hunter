@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(39, 161, 39);
+
+   
+   
+   
+    
+
+    
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    
+    text-align:  center;
+    color: aliceblue;
+    padding: 10px;
+    padding-top: 15px;
+    
+    
+}
+p{
+    font-size: 0.83em;
+}
+
+div{
+    padding-left: -33px;
+    padding-right: 33px;
+    overflow-x:auto ;
+  
+    
+}
+
+
+
+
+
+
+  
+table {
+    background-color: white;
+    border-collapse: collapse;
+    margin-left: 30px;
+  
+  
+   
+    
+  
+   
+    
+    
+ 
+   
+ 
+
+}
+caption{
+  
+    color: antiquewhite;
+    text-align: center;
+    font-size:0.90em ;
+    padding-left: 195px;
+    
+   
+}
+
+tr{
+   
+}
+
+
+
+
+   
+
+
+tr.especial{
+   
+
+}
+
+td{
+    border: 2px solid black;
+    text-align: center;
+    
+    
+    
+   
+
+   
+    
+    
+    
+
+   
+}
+td.maior{
+   font-size: 1.1em;
+   padding: 1px;
+   padding-left: 10px;
+   
+  
+   
+   
+    
+}
+
+td.especial{
+    background-color: rgb(194, 187, 187);
+    padding: 10px;
+   
+   
+    
+}
+
+   
+

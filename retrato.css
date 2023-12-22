@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+    
+     
+    
+
+}
+
+h1{
+    font-size: 1.6em;
+    text-align: center;
+    
+}
+p{
+    font-size: 0.75em;
+}
+div{
+    background-color: white;
+    width: 100vw;
+   
+
+}
+
+table{
+   
+   
+    padding: 5px 10px ;
+    width: 50vw;
+   
+
+
+
+   
+
+  
+ 
+}
+caption{
+   
+
+    font-size:0.80em ;
+    padding-right: 400px;
+    color: black;
+    
+}
+   
+td{
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px;
+    font-size: 0.75em ;
+   
+    
+  
+}
+td.especial{
+    background-color: gray;
+   
+    padding: 10px;
+   
+    
+}
+
+td.maior{
+    padding: 2px;
+    font-size: 0.75em;
+    
+    
+}
+                                                                                                
+
+                                                                                                               
